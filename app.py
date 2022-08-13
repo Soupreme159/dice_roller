@@ -1,7 +1,4 @@
 import random
-from re import A
-from typing import Any
-
 
 def dice_roller():
     roll = random.randint(1,6)
